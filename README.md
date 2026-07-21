@@ -31,4 +31,4 @@ Vendor‑supplied firmware and drivers retain their original licenses.
 - ROS and open‑source community
 
  ## ChangeLogs
-See [CHANGELOG.md](CHANGELOG.md) for version history.
+See [CHANGELOG.md](docs/CHANGELOG.md) for version history.
