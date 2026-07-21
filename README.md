@@ -23,7 +23,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 Vendor‑supplied firmware and drivers retain their original licenses.
 
 ## Acknowledgments
-- Lafayette College AI Lab
+- Lafayette College ECE Department
 - NVIDIA Jetson Edge AI Program
 - WHEELTEC
 - ROS and open‑source community
