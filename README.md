@@ -7,7 +7,7 @@
 ## About
 An air‑ground cooperative firefighting robot designed for autonomous operation in GNSS‑denied environments. The system consists of a ground unmanned vehicle (UGV) with omnidirectional base, 6‑DOF manipulator, multi‑sensor suite (RGB‑D, LiDAR, microphone array, gas sensors), and an onboard NVIDIA Jetson Orin Nano Super edge AI compute module. An aerial scout drone provides video streaming and telemetry. The goal is zero‑human‑intervention fire suppression with a four‑level safety interlock.
 
-An air‑ground cooperative firefighting robot designed for autonomous operation in GNSS‑denied environments. Built under four hard constraints: **[ABET](https://www.abet.org) capstone standards**[reference:0][reference:1], **[FCC](https://www.fcc.gov)/[CE](https://ec.europa.eu/growth/single-market/ce-marking_en) electromagnetic compliance**[reference:2][reference:3], and a **$1500 total BOM budget**[reference:4].
+An air‑ground cooperative firefighting robot designed for autonomous operation in GNSS‑denied environments. Built under the following constraints: **[ABET](https://www.abet.org) capstone standards**, **[FCC](https://www.fcc.gov)/[CE](https://ec.europa.eu/growth/single-market/ce-marking_en) electromagnetic compliance**, and a **[$1500 total BOM budget](docs/BOM.md)**.
 
 ## Technologies
 
