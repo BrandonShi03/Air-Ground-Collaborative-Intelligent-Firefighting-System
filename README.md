@@ -29,3 +29,6 @@ Vendor‑supplied firmware and drivers retain their original licenses.
 - NVIDIA Jetson Edge AI Program
 - WHEELTEC
 - ROS and open‑source community
+
+ ## ChangeLogs
+See [CHANGELOG.md](CHANGELOG.md) for version history.
